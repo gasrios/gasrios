@@ -1,5 +1,5 @@
 > **Warning**
-> This page, like me, is a working in progress.
+> This page, like me, is a work in progress.
 
 
 - 👋 Hi, I’m @gasrios
